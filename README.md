@@ -1,6 +1,6 @@
 # Project Name
 
-This project includes a series of scripts for data augmentation, as well as a shell script to launch these scripts.
+MuLoR: A Multi-graph Contrastive Network for Logical Reasoning
 
 ## Structure
 
